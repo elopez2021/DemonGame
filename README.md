@@ -19,3 +19,5 @@
 7. **Increasing Challenge**: Every 10 steps, a new demon appears on the map.
 8. **Shield Power-Up**: Every 20 steps, a shield (`S`) will appear. If not picked up, it will last for 10 steps. Once picked up, it will disappear after 5 steps.
 
+# Screen View
+![Local image](preview.png)
